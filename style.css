@@ -1,0 +1,32 @@
+/* buttons color */
+.bg-color{
+    background: linear-gradient(95.04deg, #fe9a52 0.04%, #ff5748 100.04%);
+}
+
+/* links */
+.link-sign{
+    text-decoration: none;
+}
+
+/* Featuer 3 */
+.custom-contain{
+    background: linear-gradient(180deg, #fffefc -55.43%, rgba(255, 236, 215, 0) 100%);
+}
+
+/* Cards */
+.card-border{
+    border: 0px solid !important;
+}
+
+/* h1 color */
+.h-color{
+    color: #5022E2 !important;
+}
+
+/* Feature 4 */
+.sec-background{
+    background: url(./img/cta-2-bg.png) no-repeat center bottom;
+}
+
+
+

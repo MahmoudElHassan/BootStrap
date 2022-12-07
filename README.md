@@ -4,7 +4,7 @@ Responsive Task
 ### This project was a task during traning at ITI.. Also it was first time dealing with figma 
 
 <div>
-     <h4>This Project Creared by HTML, BootStrap & CSS with 2.3% of the entire project</h4>
+     <h3>This Project Creared by HTML, BootStrap & CSS with 2.3% of the entire project</h3>
   <img src="https://github.com/MahmoudElHassan/BootStrap/blob/main/Readme%20Image/1.png" width="">
      <h4></h4>
   <img src="https://github.com/MahmoudElHassan/BootStrap/blob/main/Readme%20Image/2.png" width="">

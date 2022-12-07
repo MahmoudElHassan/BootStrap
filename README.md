@@ -1,5 +1,5 @@
-# BootStrap
-Responsive Task
+# Responsive
+
 ### Hi.. First of all Thank You for visiting my Profile
 ### This project was a task during traning at ITI.. Also it was first time dealing with figma 
 

@@ -16,6 +16,6 @@ Responsive Task
   <img src="https://github.com/MahmoudElHassan/BootStrap/blob/main/Readme%20Image/5.png" width="">
  </div>
  
-### If you wanna to check the UI/UX designe for this project from [Figma](https://www.figma.com/file/il3TZK1Wru0eAptudKCbH8/Collab-Collaboration-Software-Landing-Page-Template-(Community)?node-id=201%3A1004)
+### If you wanna to check the UI/UX designe for this project at [Figma](https://www.figma.com/file/il3TZK1Wru0eAptudKCbH8/Collab-Collaboration-Software-Landing-Page-Template-(Community)?node-id=201%3A1004)
 
-### Now come and take a look at my project from [HERE](http://boot-strap-five.vercel.app/) 
+### Now come and take a look at my project click [HERE](http://boot-strap-five.vercel.app/) 
